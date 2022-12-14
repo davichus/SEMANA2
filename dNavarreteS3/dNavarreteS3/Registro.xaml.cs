@@ -10,7 +10,7 @@ namespace dNavarreteS3
         public Registro(string usuario)
         {
             
-            InitializeComponent();
+            InitializeComponent(); 
             lblUsuario.Text = usuario; 
         }
     }
