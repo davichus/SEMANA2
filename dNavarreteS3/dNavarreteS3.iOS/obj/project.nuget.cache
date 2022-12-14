@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zL1UbTIgZKNrbNBRq0KVvWdYx2tAWgJIP0g6xhVjiQzdaOFREVG7S0pELlQ/ft0SE+Zp1BYOwgW0ObLUDPXLnA==",
+  "success": true,
+  "projectFilePath": "/Users/davidnavarrete/Projects/dNavarreteS3/dNavarreteS3/dNavarreteS3.iOS/dNavarreteS3.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidnavarrete/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/davidnavarrete/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
