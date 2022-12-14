@@ -4,19 +4,17 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="dNavarreteS3/dNavarreteS3/Login.xaml.cs">
     <Files>
       <File FileName="dNavarreteS3/dNavarreteS3/Login.xaml" Line="18" Column="40" />
-      <File FileName="dNavarreteS3/dNavarreteS3/Login.xaml.cs" Line="24" Column="14" />
+      <File FileName="dNavarreteS3/dNavarreteS3/Login.xaml.cs" Line="12" Column="35" />
       <File FileName="dNavarreteS3/dNavarreteS3/App.xaml.cs" />
       <File FileName="dNavarreteS3/dNavarreteS3/Registro.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="dNavarreteS3" expanded="True">
+          <Node name="dNavarreteS3" expanded="True" selected="True">
             <Node name="dNavarreteS3" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="Login.xaml" expanded="True">
-                <Node name="Login.xaml.cs" selected="True" />
-              </Node>
+              <Node name="Login.xaml" expanded="True" />
               <Node name="Registro.xaml" expanded="True" />
             </Node>
             <Node name="dNavarreteS3.Android" expanded="True" />
