@@ -16,7 +16,6 @@ namespace dNavarreteS3
         {
             string usuario = "dnavarrete";
             string contrasena = "12345";
-            string nombres = "";
             if (usuario == txtUsuario.Text && contrasena == txtContrasena.Text)
             {
                 Navigation.PushAsync(new Registro(usuario));
